@@ -29,6 +29,6 @@ THEN the saved events persist
 In this project we had to make a functioning day schedule where you can put in tasks you have to complete from 9am to 5pm. And in each one of these time slots you can save a task to your local storage where if you reload the page, the task still stays there. A challenge I ran into was comparing the current time so that there a difference between past, present, and future. Using JQUERY was very helpful. 
 
 ## Link 
-
+Link to live Website: https://aryasaini.github.io/day-calendar/
 
 
